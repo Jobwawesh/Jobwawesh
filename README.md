@@ -13,7 +13,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🔭 I’m currently working on multiple frontend and backend projects.
 - 🌱 I’m currently learning deep learning.
-- 💬 Ask me about how  AI will become sntient soon, oh and ERP tech systems.
+- 💬 Ask me about how  AI will become sentient soon, oh and ERP tech systems.
 - 📫 How to reach me: <div> <a href= "https://www.linkedin.com/in/kimathi-njoki-03b6031b0/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
   </a>
