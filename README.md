@@ -17,7 +17,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 📫 How to reach me: <div> <a href= "https://www.linkedin.com/in/kimathi-njoki-03b6031b0/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
   </a>
-    <a href="mailto:dfkimathinjoki@gmail.com">
+    <a href="mailto:jobnjunge15@gmail.com">
     <img src="https://img.icons8.com/ios-glyphs/30/689d6a/physics.png"/>
   </a>
   </div>
@@ -87,6 +87,8 @@ Other        8 hrs 58 mins   ▓░░░░░░░░░░░░░░░░
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-plain.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" title="SQLite3" **alt="SQLite3" width="60" height="40"/>
+    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" title="Bootstrap" **alt="Bootstrap" width="60" height="40"/>
+
 
   
   
