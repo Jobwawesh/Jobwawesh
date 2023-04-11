@@ -1,3 +1,6 @@
+<div align="center">
+### Hi there 👋
+</div>
 <div  id="header" align="center">
  <h2>Hi There! it's Waweru!</h2>
  <h4>Welcome to my github profile</h4>
@@ -5,13 +8,19 @@
 </div>
 
 
-Lets bend these code elements like Avatar to save the web!!!
-- 👋 Hi, I’m the code bender
-- 👀 Talk to me on anything Software, IoT and AI
-- 🌱 I’m currently learning #moringaSchool#flatironBootcamp#fullStack DEV
-- 💞️ I’m looking to collaborate on anyproject
-- 📫 How to reach me: jobnjunge15@gmail.com
+### :man_technologist: About Me :
 
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🔭 I’m currently working on multiple frontend and backend projects.
+- 🌱 I’m currently learning deep learning.
+- 💬 Ask me about how  AI will become sntient soon, oh and ERP tech systems.
+- 📫 How to reach me: <div> <a href= "https://www.linkedin.com/in/kimathi-njoki-03b6031b0/">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
+  </a>
+    <a href="mailto:dfkimathinjoki@gmail.com">
+    <img src="https://img.icons8.com/ios-glyphs/30/689d6a/physics.png"/>
+  </a>
+  </div>
 
 <!--START_SECTION:waka-->
 
