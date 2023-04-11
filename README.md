@@ -1,8 +1,6 @@
-<div align="center">
-### Hi there 👋
-</div>
+
 <div  id="header" align="center">
- <h2>Hi There! it's Waweru!</h2>
+ <h2>Hi There!👋 it's Waweru!</h2>
  <h4>Welcome to my github profile</h4>
  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdhNGViYjFkYjUyNWFhMDI1NTdiZWMzYTdhMGRhYzIyZDdkNjYwNiZjdD1n/R03zWv5p1oNSQd91EP/giphy.gif" width="100"/>
 </div>
