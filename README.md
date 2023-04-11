@@ -90,10 +90,10 @@ Other        8 hrs 58 mins   ▓░░░░░░░░░░░░░░░░
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jobwawesh&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prince475&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jobwawesh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <img
-  src="https://github.com/prince475/prince475/blob/main/images/stat.svg"
+  src="https://github.com/Jobwawesh/Jobwawesh/blob/main/images/stat.svg"
   alt="Alternative Text"
 />
 
